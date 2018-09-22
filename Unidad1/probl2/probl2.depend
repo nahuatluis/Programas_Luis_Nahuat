@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1521840538 source:c:\users\misa\desktop\probl2\main.cpp
+	<iostream>
+	"Triangulos.h"
+	<cmath>
+	<math.h>
+
+1521826226 c:\users\misa\desktop\probl2\include\triangulos.h
+
+1521840440 source:c:\users\misa\desktop\probl2\src\triangulos.cpp
+	"Triangulos.h"
+	<iostream>
+	<cmath>
+	<math.h>
+
