@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1537764036 source:c:\users\fernando\desktop\ahorcado\main.cpp
+	"juego.h"
+	<iostream>
+	<string>
+
+1537744515 c:\users\fernando\desktop\ahorcado\include\juego.h
+	<iostream>
+	<string>
+
+1537763918 source:c:\users\fernando\desktop\ahorcado\src\juego.cpp
+	"juego.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<string>
+
+1537218338 source:c:\users\fernando\documents\programas_luis_nahuat\unidad_1\ahorcado\main.cpp
+	"juego.h"
+	<iostream>
+	<string>
+
+1537744515 c:\users\fernando\documents\programas_luis_nahuat\unidad_1\ahorcado\include\juego.h
+	<iostream>
+	<string>
+
