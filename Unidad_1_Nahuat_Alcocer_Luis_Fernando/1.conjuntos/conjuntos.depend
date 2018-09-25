@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1537760287 source:c:\users\fernando\desktop\conjuntos\main.cpp
+	<iostream>
+	<string>
+	"Procedimientos.h"
+
+1537760287 c:\users\fernando\desktop\conjuntos\include\procedimientos.h
+	<iostream>
+	<string>
+
+1537760302 source:c:\users\fernando\desktop\conjuntos\src\procedimientos.cpp
+	"Procedimientos.h"
+
+1537832977 source:c:\users\fernando\desktop\conjuntos - copia\src\procedimientos.cpp
+	"Procedimientos.h"
+
+1537832496 c:\users\fernando\desktop\conjuntos - copia\include\procedimientos.h
+	<iostream>
+	<string>
+
+1537832496 source:c:\users\fernando\desktop\conjuntos - copia\main.cpp
+	<iostream>
+	<string>
+	"Procedimientos.h"
+	<stdlib.h>
+
