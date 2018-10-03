@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1538439777 source:c:\users\fernando\desktop\binario\main.cpp
+	<iostream>
+	"procedimento .h"
+	<stdlib.h>
+
+1538439293 source:c:\users\fernando\desktop\binario\src\procedimento .cpp
+	"procedimento .h"
+
+1538090605 c:\users\fernando\desktop\binario\include\procedimento .h
+	<iostream>
+

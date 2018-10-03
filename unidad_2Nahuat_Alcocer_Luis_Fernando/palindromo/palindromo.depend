@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1538534144 source:c:\users\fernando\desktop\palindromo\main.cpp
+	<iostream>
+	<string.h>
+	"procesos palindromos.h"
+
+1538534513 c:\users\fernando\desktop\palindromo\include\procesos palindromos.h
+	<iostream>
+	<string.h>
+

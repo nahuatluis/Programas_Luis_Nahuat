@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538238231 source:c:\users\fernando\desktop\combio_monedas\main.cpp
+	<iostream>
+	"procesos.h"
+
+1538143634 source:c:\users\fernando\desktop\combio_monedas\src\procesos.cpp
+	"procesos.h"
+
+1538489362 c:\users\fernando\desktop\combio_monedas\include\procesos.h
+	<iostream>
+
